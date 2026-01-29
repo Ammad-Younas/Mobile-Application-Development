@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085566411592",
+    "project_id": "getcars-c4d3b",
+    "storage_bucket": "getcars-c4d3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085566411592:android:3502185fe9ddb336e3497d",
+        "android_client_info": {
+          "package_name": "com.example.olxapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnBpMqGIhoZBrZx-LbGGFwydRX1KMjM98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
